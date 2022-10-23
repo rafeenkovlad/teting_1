@@ -1,0 +1,6 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+
+telegram_guard:
+    path: /_calculate
